@@ -1,4 +1,4 @@
 def say_parrot ("squawk!")
 puts ("squawk!")
 end
-parrot "squawk
+say_parrot "squawk
